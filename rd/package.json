@@ -1,0 +1,16 @@
+{
+  "name": "rd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "rdapp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node rdapp"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "underscore": "^1.9.1"
+  }
+}
